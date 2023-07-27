@@ -8,7 +8,7 @@
 </template>
 
 <script setup>
-import MealItem from "../components/Mealitem.vue"
+import MealItem from "../components/MealItem.vue"
 
 const { meals } = defineProps({
   meals: {
